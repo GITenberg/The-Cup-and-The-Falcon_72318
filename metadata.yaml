@@ -1,0 +1,31 @@
+_repo: The-Cup-and-The-Falcon_72318
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tennyson, Alfred Tennyson, Baron
+    alias: Tennyson, Alfred Lord
+    birthdate: 1809
+    deathdate: 1892
+    gutenberg_agent_id: '2987'
+    url: http://www.gutenberg.org/2009/agents/2987
+    wikipedia: https://en.wikipedia.org/wiki/Alfred,_Lord_Tennyson
+description: ''
+gutenberg_issued: '2023-12-04'
+identifiers:
+  gutenberg: '72318'
+language: en
+pgterms:marc904: https://archive.org/details/cupandfalcon00tennrich/page/n5/mode/2up
+pgterms:marc905: 20200618115633tennyson
+pgterms:marc906: '1884'
+pgterms:marc907: GB
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aLondon :$bMacMillan and Co., $c1884.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Cup and The Falcon
+url: http://www.gutenberg.org/ebooks/72318
